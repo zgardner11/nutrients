@@ -1,0 +1,11 @@
+   Form for entering restrictions
+   
+    <form action="">
+                    <header><h2>Input your information below to get started!</h2></header>
+                    <div>
+                        <input type="text" placeholder="Please enter your food restrictions:" class = "home-input">
+                    </div>
+                    
+
+                </form>
+                

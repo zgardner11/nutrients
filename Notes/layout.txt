@@ -1,0 +1,67 @@
+Pages
+
+    -Home
+        
+    -Diet
+        -Most popular diets and recommendations
+        -Meal planning w/ various allergies/restrictions
+            -Meal plan for each page of allergy
+            -1 week plan of each popular diet, expand to 1 month
+            -Option to detect restrictions and accomodate the recipes accordingly
+            -Save personal plans
+
+    -Allergies
+        -Dairy
+        -Gluten
+        -Egg
+        -Soy
+        -Shellfish/Fish
+        -Honey
+        -Treenuts
+        -Sesame
+
+    -Exercise
+        -Blog Posts
+            -Focus on various muscle groups
+            -Push/Pull
+            -Reps
+            -Rest days
+            -Absolute Form (Private?)
+            -Supersets (Private?)
+        -Workout tracker
+            -Exercises by muscle group
+                -Upper body
+                -Lower body
+                -Abs
+                -Push/Pull 
+            -Instructions for each exercise   
+            -Number of sets, pyramid option
+            -Weight (user input), suggestion to increase every few workouts
+            -Achievements & Milestones
+                -One week straight working out
+                -Consecutive increase in weight or reps 
+                -Consistency
+                -25% higher weight than starting point
+                -
+        -Dashboard
+        
+            -Amount of weight lost
+
+        -User Input
+            -Restrictions
+            -
+
+
+
+Focuses
+
+    -Food photos with proper lighting
+    -Color/gradients
+    -Blend of white space and curved colorful lines to focus on content
+    -Glassmorphism on recipes and ingredients lists, blog Posts
+    -
+
+Purchasing
+
+-Links to raw ingredients?
+-

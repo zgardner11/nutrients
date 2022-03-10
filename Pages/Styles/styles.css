@@ -1,16 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+/* todo */
+
+/*find Serif font for headers*/
+/* toggle nav bar that overlays across screen */
+/* recipe layout */
+/* categories of recipes */
+
+
 * {
   box-sizing:border-box; /*accounts for margin and padding in sizing, easier to size */
   margin:0;
   padding:0;
   }
+
 :root {
   --main-bg-color:linear-gradient( to top, aliceblue, var(--navbar));
   --alternate-bg-color:linear-gradient( to bottom, aliceblue, hsl(197, 69%, 70%),hsl(197, 95%, 40%));
   --gradient:linear-gradient(to top, var(--white), (var(--darkred)));
   --rorange:rgb(255, 130, 13);
-  --navbar:hsl(17, 78%, 44%);
+  --navbar:hsla(17, 74%, 45%, 0.849);
   --lightblue: rgb(0, 217, 224);
   --skyblue:hsla(192, 100%, 79%, 0.979);
   --silverblue:rgb(113, 145, 153);
@@ -34,7 +43,7 @@ h1 {
   line-height: 4;
 }
 
-h2,h3 {
+h2,h3 {                
   font-weight:200; 
   line-height:2;
 }
@@ -69,7 +78,6 @@ a:visited{
   top: 0;
   z-index: 99999;
 }
-
 
 .navlinks {
   display: flex;
@@ -193,8 +201,8 @@ main section:nth-child(2n){
 
 .main-content {
   height: 0%;
-  border: 1px solid var(--skyblue);
 }
+
 .main-content header{
   position: relative;
   top: 7rem;

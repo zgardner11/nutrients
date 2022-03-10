@@ -2,17 +2,17 @@ Database information for each user
 
 General
 
--Name
--Sex
--Age
+    -Name
+    -Sex
+    -Age
 
 Food Related
 
--Allergies/Restrictions
--Saved recipes/meal plans
--
+    -Allergies/Restrictions
+    -Saved recipes/meal plans
+    -
 
 Workout Related
 
--Workout for each day
-    -
+    -Workout for each day
+        -
